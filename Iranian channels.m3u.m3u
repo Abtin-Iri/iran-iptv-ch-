@@ -1,0 +1,71 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/IRIB_Seimaye_Khorasan_logo.svg/120px-IRIB_Seimaye_Khorasan_logo.svg.png" group-title="Iranian TV - Provincial",IRIB Khorasan
+https://telewebion.com/live/khorasan
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/IRIB_Shimaye_Mazandaran_logo.svg/120px-IRIB_Shimaye_Mazandaran_logo.svg.png" group-title="Iranian TV - Provincial",IRIB Mazandaran
+https://telewebion.com/live/mazandaran
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/IRIB_Shahrivar_logo.svg/120px-IRIB_Shahrivar_logo.svg.png" group-title="Iranian TV - Provincial",IRIB Shahrivar
+https://telewebion.com/live/shahrivar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIB_Shahrivar_logo.svg/120px-IRIB_Shahrivar_logo.svg.png" group-title="Iranian TV - Provincial",IRIB Fars
+https://telewebion.com/live/fars
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/IRIB_Fars_logo.svg/120px-IRIB_Fars_logo.svg.png" group-title="Iranian TV - Provincial",IRIB Isfahan
+https://telewebion.com/live/isfahan
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Press_TV_logo_2021.svg/120px-Press_TV_logo_2021.svg.png" group-title="Iranian TV - International",Press TV
+https://telewebion.com/live/presstv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/IRIB_Arabic_logo.svg/120px-IRIB_Arabic_logo.svg.png" group-title="Iranian TV - International",IRIB Al-Alam
+https://telewebion.com/live/alalam
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/IRIB_English_logo.svg/120px-IRIB_English_logo.svg.png" group-title="Iranian TV - International",IRIB English
+https://telewebion.com/live/english
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/IRIB_Farsi_logo.svg/120px-IRIB_Farsi_logo.svg.png" group-title="Iranian TV - International",IRIB Farsi
+https://telewebion.com/live/farsi
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Al-Abbas_tv_logo.svg/120px-Al-Abbas_tv_logo.svg.png" group-title="Religious Channels",Al-Abbas TV
+https://telewebion.com/live/alabbas
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam_Hussain_TV_Logo.png/120px-Imam_Hussain_TV_Logo.png" group-title="Religious Channels",Imam Hussain TV
+https://telewebion.com/live/imamhussain
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mahdi_TV_logo.png/120px-Mahdi_TV_logo.png" group-title="Religious Channels",Mahdi TV
+https://telewebion.com/live/mahdi
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jem_Logo.svg/120px-Jem_Logo.svg.png" group-title="Satellite Channels",Jem TV
+https://telewebion.com/live/jem
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/SimayeAzadi_logo.svg/120px-SimayeAzadi_logo.svg.png" group-title="Satellite Channels",Simayeh Azadi
+https://telewebion.com/live/simayazadi
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/IRIB_Seimaye_Atrek_logo.svg/120px-IRIB_Seimaye_Atrek_logo.svg.png" group-title="Iranian TV - Provincial",IRIB Atrek
+https://telewebion.com/live/atrek
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/IRIB_Seimaye_Khavaraneh_logo.svg/120px-IRIB_Seimaye_Khavaraneh_logo.svg.png" group-title="Iranian TV - Provincial",IRIB Khavaran
+https://telewebion.com/live/khavaran
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_TV1_logo.svg/120px-IRIB_TV1_logo.svg.png" group-title="Iranian TV - National",IRIB TV 1
+https://telewebion.com/live/tv1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/IRIB_TV2_logo.svg/120px-IRIB_TV2_logo.svg.png" group-title="Iranian TV - National",IRIB TV 2
+https://telewebion.com/live/tv2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/IRIB_TV3_logo.svg/120px-IRIB_TV3_logo.svg.png" group-title="Iranian TV - National",IRIB TV 3
+https://telewebion.com/live/tv3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/IRIB_TV4_logo.svg/120px-IRIB_TV4_logo.svg.png" group-title="Iranian TV - National",IRIB TV 4
+https://telewebion.com/live/tv4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/IRIB_Jam1_logo.svg/120px-IRIB_Jam1_logo.svg.png" group-title="Iranian TV - National",IRIB Jam 1
+https://telewebion.com/live/jam1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IRIB_Jam2_logo.svg/120px-IRIB_Jam2_logo.svg.png" group-title="Iranian TV - National",IRIB Jam 2
+https://telewebion.com/live/jam2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/IRIB_Jam3_logo.svg/120px-IRIB_Jam3_logo.svg.png" group-title="Iranian TV - National",IRIB Jam 3
+https://telewebion.com/live/jam3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/IRIB_Jam4_logo.svg/120px-IRIB_Jam4_logo.svg.png" group-title="Iranian TV - National",IRIB Jam 4
+https://telewebion.com/live/jam4
