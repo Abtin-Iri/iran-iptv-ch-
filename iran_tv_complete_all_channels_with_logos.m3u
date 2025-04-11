@@ -38,3 +38,15 @@ http://path_to_logo/IRIB_Aban_logo.png
 #EXTINF:-1,IRIB Mehr
 http://path_to_stream/IRIB_Mehr
 http://path_to_logo/IRIB_Mehr_logo.png
+#EXTINF:-1,Farah Iran
+http://stream_link_for_Farah_Iran
+http://logo_link_for_Farah_Iran
+#EXTINF:-1,Sima Azadi
+http://stream_link_for_Sima_Azadi
+http://logo_link_for_Sima_Azadi
+#EXTINF:-1,Iran International
+http://stream_link_for_Iran_International
+http://logo_link_for_Iran_International
+#EXTINF:-1,Gem TV
+http://stream_link_for_Gem_TV
+http://logo_link_for_Gem_TV
