@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1,IRIB TV1
+http://path_to_stream/IRIB_TV1
+http://path_to_logo/IRIB_TV1_logo.png
+#EXTINF:-1,IRIB TV2
+http://path_to_stream/IRIB_TV2
+http://path_to_logo/IRIB_TV2_logo.png
+#EXTINF:-1,IRIB TV3
+http://path_to_stream/IRIB_TV3
+http://path_to_logo/IRIB_TV3_logo.png
+#EXTINF:-1,IRIB TV5
+http://path_to_stream/IRIB_TV5
+http://path_to_logo/IRIB_TV5_logo.png
+#EXTINF:-1,IRIB News
+http://path_to_stream/IRIB_News
+http://path_to_logo/IRIB_News_logo.png
+#EXTINF:-1,IRIB Quran
+http://path_to_stream/IRIB_Quran
+http://path_to_logo/IRIB_Quran_logo.png
+#EXTINF:-1,IRIB Al-Kawthar
+http://path_to_stream/IRIB_Al-Kawthar
+http://path_to_logo/IRIB_Al-Kawthar_logo.png
+#EXTINF:-1,Al-Furat
+http://path_to_stream/Al-Furat
+http://path_to_logo/Al-Furat_logo.png
+#EXTINF:-1,Jam-e-Jam 1
+http://path_to_stream/Jam-e-Jam_1
+http://path_to_logo/Jam-e-Jam_1_logo.png
+#EXTINF:-1,Jam-e-Jam 2
+http://path_to_stream/Jam-e-Jam_2
+http://path_to_logo/Jam-e-Jam_2_logo.png
+#EXTINF:-1,IRIB Imam Hussein
+http://path_to_stream/IRIB_Imam_Hussein
+http://path_to_logo/IRIB_Imam_Hussein_logo.png
+#EXTINF:-1,IRIB Aban
+http://path_to_stream/IRIB_Aban
+http://path_to_logo/IRIB_Aban_logo.png
+#EXTINF:-1,IRIB Mehr
+http://path_to_stream/IRIB_Mehr
+http://path_to_logo/IRIB_Mehr_logo.png
