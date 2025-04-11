@@ -1,0 +1,27 @@
+#EXTM3U
+
+# --- IRIB Channels ---
+#EXTINF:-1 tvg-id="irib1" group-title="IRIB",IRIB TV1
+http://live.irib.ir/hls/TV1/playlist.m3u8
+#EXTINF:-1 tvg-id="irib2" group-title="IRIB",IRIB TV2
+http://live.irib.ir/hls/TV2/playlist.m3u8
+#EXTINF:-1 tvg-id="irib3" group-title="IRIB",IRIB TV3
+http://live.irib.ir/hls/TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="irib4" group-title="IRIB",IRIB TV4
+http://live.irib.ir/hls/TV4/playlist.m3u8
+#EXTINF:-1 tvg-id="irib5" group-title="IRIB",IRIB TV5
+http://live.irib.ir/hls/TV5/playlist.m3u8
+#EXTINF:-1 tvg-id="ifilm" group-title="IRIB",iFilm Farsi
+http://live.irib.ir/hls/ifilm/playlist.m3u8
+
+# --- Persian Satellite Channels ---
+#EXTINF:-1 tvg-id="manoto" group-title="Satellite",Manoto TV
+http://195.154.221.171:8000/live/manoto.m3u8
+#EXTINF:-1 tvg-id="bbcper" group-title="Satellite",BBC Persian
+http://195.154.221.171:8000/live/bbcpersian.m3u8
+#EXTINF:-1 tvg-id="voapersian" group-title="Satellite",VOA Persian
+http://195.154.221.171:8000/live/voapersian.m3u8
+#EXTINF:-1 tvg-id="iraniantv" group-title="Satellite",Iran International
+http://195.154.221.171:8000/live/iranintl.m3u8
+#EXTINF:-1 tvg-id="gem" group-title="Satellite",GEM TV
+http://195.154.221.171:8000/live/gemtv.m3u8
