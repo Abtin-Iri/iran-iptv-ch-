@@ -1,0 +1,103 @@
+#EXTM3U
+
+# ==== شبکه‌های سراسری صدا و سیما ====
+#EXTINF:-1 tvg-id="irib1" group-title="IRIB National",شبکه یک
+http://51.210.199.45:8081/IRIB1/mono.m3u8
+#EXTINF:-1 tvg-id="irib2" group-title="IRIB National",شبکه دو
+http://51.210.199.45:8081/IRIB2/mono.m3u8
+#EXTINF:-1 tvg-id="irib3" group-title="IRIB National",شبکه سه
+http://51.210.199.45:8081/IRIB3/mono.m3u8
+#EXTINF:-1 tvg-id="irib4" group-title="IRIB National",شبکه چهار
+http://51.210.199.45:8081/IRIB4/mono.m3u8
+#EXTINF:-1 tvg-id="irib5" group-title="IRIB National",شبکه پنج (تهران)
+http://51.210.199.45:8081/IRIBTVTEHRAN/mono.m3u8
+#EXTINF:-1 tvg-id="irib-mostanad" group-title="IRIB National",شبکه مستند
+http://51.210.199.45:8081/IRIBMOSTANAD/mono.m3u8
+#EXTINF:-1 tvg-id="irib-namayesh" group-title="IRIB National",شبکه نمایش
+http://51.210.199.45:8081/IRIBNAMAYESH/mono.m3u8
+#EXTINF:-1 tvg-id="irib-ifilm" group-title="IRIB National",آی فیلم
+http://51.210.199.45:8081/IFILMFARSI/mono.m3u8
+#EXTINF:-1 tvg-id="irib-sport" group-title="IRIB National",شبکه ورزش
+http://51.210.199.45:8081/IRIBVARZESH/mono.m3u8
+#EXTINF:-1 tvg-id="irib-pooya" group-title="IRIB National",پویا
+http://51.210.199.45:8081/IRIBPOOYA/mono.m3u8
+
+# ==== شبکه‌های استانی ====
+#EXTINF:-1 tvg-id="irib-khorasan" group-title="IRIB Provincial",خراسان رضوی
+http://51.210.199.45:8081/IRIBKHORASANRAZAVI/mono.m3u8
+#EXTINF:-1 tvg-id="irib-azarbayjan" group-title="IRIB Provincial",آذربایجان شرقی
+http://51.210.199.45:8081/IRIBTABRIZ/mono.m3u8
+#EXTINF:-1 tvg-id="irib-mazandaran" group-title="IRIB Provincial",مازندران
+http://51.210.199.45:8081/IRIBMAZANDARAN/mono.m3u8
+#EXTINF:-1 tvg-id="irib-fars" group-title="IRIB Provincial",فارس
+http://51.210.199.45:8081/IRIBSHIRAZ/mono.m3u8
+#EXTINF:-1 tvg-id="irib-kermanshah" group-title="IRIB Provincial",کرمانشاه
+http://51.210.199.45:8081/IRIBKERMANSHAH/mono.m3u8
+#EXTINF:-1 tvg-id="irib-kurdistan" group-title="IRIB Provincial",کردستان
+http://51.210.199.45:8081/IRIBKURDISTAN/mono.m3u8
+#EXTINF:-1 tvg-id="irib-bushehr" group-title="IRIB Provincial",بوشهر
+http://51.210.199.45:8081/IRIBBUSHEHR/mono.m3u8
+
+# ==== شبکه‌های مذهبی ماهواره‌ای ====
+#EXTINF:-1 tvg-id="imamhussain" group-title="Religious",امام حسین (ع)
+https://imam-hussain-tv.s3-eu-west-1.amazonaws.com/live/ihplus.m3u8
+#EXTINF:-1 tvg-id="abulfazl" group-title="Religious",ابوالفضل العباس
+https://shia-tv.s3.amazonaws.com/live/abulfazl.m3u8
+#EXTINF:-1 tvg-id="alqamar" group-title="Religious",القمر
+https://live.alqamar.tv/stream/index.m3u8
+#EXTINF:-1 tvg-id="mehdytv" group-title="Religious",مهدی تی وی
+https://mehdytv.s3.amazonaws.com/live/stream.m3u8
+#EXTINF:-1 tvg-id="marjaia" group-title="Religious",مرجعیت فارسی
+https://stream.marjaia.tv/live/stream.m3u8
+#EXTINF:-1 tvg-id="aboulabbas" group-title="Religious",بیت العباس
+https://stream.aboulabbas.tv/live.m3u8
+
+# ==== شبکه‌های ماهواره‌ای فارسی‌زبان ====
+#EXTINF:-1 tvg-id="manoto" group-title="Persian Satellite",من و تو
+http://51.210.199.45:8081/MANOTO/mono.m3u8
+#EXTINF:-1 tvg-id="bbc-persian" group-title="Persian Satellite",بی‌بی‌سی فارسی
+http://51.210.199.45:8081/BBCPERSIAN/mono.m3u8
+#EXTINF:-1 tvg-id="pmc" group-title="Persian Satellite",PMC
+http://51.210.199.45:8081/PMC/mono.m3u8
+#EXTINF:-1 tvg-id="iranintl" group-title="Persian Satellite",ایران اینترنشنال
+http://51.210.199.45:8081/IRANINTERNATIONAL/mono.m3u8
+#EXTINF:-1 tvg-id="voa-farsi" group-title="Persian Satellite",صدای آمریکا
+http://51.210.199.45:8081/VOAFARSI/mono.m3u8
+
+# ==== شبکه‌های ماهواره‌ای فارسی‌زبان (ادامه) ====
+#EXTINF:-1 tvg-id="gem-tv" group-title="Persian Satellite",جم تی‌وی (GEM TV)
+http://51.210.199.45:8081/GEMTV/mono.m3u8
+#EXTINF:-1 tvg-id="gem-classic" group-title="Persian Satellite",جم کلاسیک (GEM Classic)
+http://51.210.199.45:8081/GEMCLASSIC/mono.m3u8
+#EXTINF:-1 tvg-id="gem-music" group-title="Persian Satellite",جم موزیک (GEM Music)
+http://51.210.199.45:8081/GEMMUSIC/mono.m3u8
+#EXTINF:-1 tvg-id="simayeazadi" group-title="Persian Satellite",سیمای آزادی (Simaye Azadi)
+http://51.210.199.45:8081/SIMAYEAZADI/mono.m3u8
+#EXTINF:-1 tvg-id="farhangeiran" group-title="Persian Satellite",فره ایران (Farhange Iran)
+http://51.210.199.45:8081/FARHANGIRAN/mono.m3u8
+
+# ==== شبکه‌های سراسری صدا و سیما (تکمیلی) ====
+#EXTINF:-1 tvg-id="irib-salamat" group-title="IRIB National",سلامت
+http://51.210.199.45:8081/IRIBSALAMAT/mono.m3u8
+#EXTINF:-1 tvg-id="irib-amoozesh" group-title="IRIB National",آموزش
+http://51.210.199.45:8081/IRIBAMOOZESH/mono.m3u8
+#EXTINF:-1 tvg-id="irib-quran" group-title="IRIB National",قرآن
+http://51.210.199.45:8081/IRIBQURAN/mono.m3u8
+#EXTINF:-1 tvg-id="irib-tamasha" group-title="IRIB National",تماشا
+http://51.210.199.45:8081/IRIBTAMASHA/mono.m3u8
+
+# ==== شبکه‌های برون‌مرزی صدا و سیما ====
+#EXTINF:-1 tvg-id="irib-jamejam1" group-title="IRIB International",جام جم ۱
+http://51.210.199.45:8081/JJ1/mono.m3u8
+#EXTINF:-1 tvg-id="irib-jamejam2" group-title="IRIB International",جام جم ۲
+http://51.210.199.45:8081/JJ2/mono.m3u8
+#EXTINF:-1 tvg-id="irib-jamejam3" group-title="IRIB International",جام جم ۳
+http://51.210.199.45:8081/JJ3/mono.m3u8
+#EXTINF:-1 tvg-id="irib-alalam" group-title="IRIB International",العالم
+http://51.210.199.45:8081/ALALAM/mono.m3u8
+#EXTINF:-1 tvg-id="irib-alkawthar" group-title="IRIB International",الکوثر
+http://51.210.199.45:8081/ALKAWTHAR/mono.m3u8
+#EXTINF:-1 tvg-id="irib-presstv" group-title="IRIB International",پرس تی‌وی (Press TV)
+http://51.210.199.45:8081/PRESSTV/mono.m3u8
+#EXTINF:-1 tvg-id="irib-sahar" group-title="IRIB International",سحر
+http://51.210.199.45:8081/SAHAR/mono.m3u8
